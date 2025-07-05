@@ -1,0 +1,31 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "genlabs:totem_of_energy"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AAA",
+            "A#A",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "tag": "minecraft:cobblestone"
+            },
+            "#": {
+                "tag": "genlabs:energy_core"
+            }
+        },
+        "unlock": {
+        {
+          "item": "genlabs:energy_core"
+        }
+        "result": {
+            "item": "genlabs:totem_of_energy"
+        }
+    }
+}

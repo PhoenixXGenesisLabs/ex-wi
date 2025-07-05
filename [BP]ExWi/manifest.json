@@ -1,0 +1,36 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "c3c75e47-71b2-8153-e519-164e4306b642",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 90],
+		"pack_scope": "world"
+	},
+	"metadata": {
+		"authors": ["Genesis Labs"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.7.0"],
+			"blockbench_item_wizard": ["1.2.0"],
+			"blockbench_block_wizard": ["1.4.1"]
+		"product_type": "addon"
+		}
+	},
+	"modules": [
+		{
+			"description": "Expanding Wilderness Behavior Modules",
+			"version": [1, 0, 0],
+			"uuid": "4a07a1a7-8874-6833-04d2-8bcbccaa9d93",
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/main.js",
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "00657ead-13bf-fe9f-9b26-0996ed352dd5",
+			"version": [1, 0, 0]
+		}
+	]
+}

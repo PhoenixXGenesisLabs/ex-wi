@@ -1,0 +1,27 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "genlabs:energy_core"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "AA",
+            "AA"
+        ],
+        "key": {
+            "A": {
+                "tag": "genlabs:energy_shard"
+            }
+        },
+        "unlock": {
+        {
+          "item": "genlabs:energy_shard"
+        }
+        "result": {
+            "item": "genlabs:energy_core"
+        }
+    }
+}
