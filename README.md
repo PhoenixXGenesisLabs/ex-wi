@@ -1,4 +1,4 @@
-Expanding Wilderness (ExWi) 1.0.0 (c) 2025 Genesis Labs
+Expanding Wilderness (ExWi) 0.1.0 (c) 2025 Genesis Labs
 
 en_US (English, United States)
 
@@ -8,9 +8,7 @@ Help us Translate!
 
 Genesis Labs needs your help! Expanding Wilderness is only available in English! Help us translate into English (UK), Deutsch, Español (ES + MX), Français (FR + CA), Italiano, 日本語 (日本), 한국어 (대한민국), Português (BR + PT), Русский (Россия), 简体中文 (中国), 繁體中文 (台灣), Nederlands (Nederland), Български (BG), Čeština (Česká republika),  Dansk (DA), Ελληνικά (Ελλάδα), Suomi (Suomi), Magyar (HU), Bahasa Indonesia (Indonesia), Norsk bokmål (Norge), Polski (PL), Slovensky (SK), Svenska (Sverige), Türkçe (Türkiye), and Українська (Україна).
 
-Derivatives:
+Upcoming derivatives:
 
 - Expanding Horizons
- The perfect complement to Expanding Wilderness! Adding new potions, unique, original mobs, and powerful new armor and tools, this pack is for those who like their Minecraft with a side of adventure.
-- Expanding Wild
- The newest addition to the Expanding universe, this add-on pack is for use with Expanding Wilderness, and adds biomes, trees, and other features! This pack is separate due to restraining Experimental features. Only use with caution! Necessary experimental features: Custom Biomes.
+- The perfect complement to Expanding Wilderness! Adding new potions, unique, original mobs, and powerful new armor and tools, this pack is for those who like their Minecraft with a side of adventure.
