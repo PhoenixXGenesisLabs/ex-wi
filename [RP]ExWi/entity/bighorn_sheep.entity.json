@@ -1,0 +1,41 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "genlabs:bighorn_sheep",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "sheep"
+			},
+			"textures": {
+				"default": "textures/entity/bighorn_sheep"
+			},
+			"geometry": {
+				"default": "geometry.bighorn_sheep",
+				"sheared": "geometry.sheep.sheared.v1.8"
+			},
+			"animations": {
+				"setup": "animation.bighorn_sheep.setup",
+				"grazing": "animation.bighorn_sheep.grazing",
+				"walk": "animation.bighorn_sheep.walk",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.bighorn_sheep.baby_transform",
+				"move": "controller.animation.sheep.move"
+			},
+			"scripts": {
+				"animate": [
+					"setup",
+					"look_at_target",
+					"move",
+					{
+						"baby_transform": "query.is_baby"
+					}
+				]
+			},
+			"render_controllers": ["controller.render.sheep"],
+			"spawn_egg": {
+				"texture": "bighorn_sheep_spawn_egg"
+			}
+		}
+	}
+}

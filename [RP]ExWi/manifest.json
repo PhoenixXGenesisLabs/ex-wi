@@ -1,0 +1,28 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "00657ead-13bf-fe9f-9b26-0996ed352dd5",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 90],
+		"pack_scope": "world"
+	},
+	"metadata": {
+		"authors": ["Genesis Labs"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.7.0"],
+			"blockbench_item_wizard": ["1.2.0"],
+			"blockbench_block_wizard": ["1.4.1"]
+		"product_type": "addon"
+		}
+	},
+	"modules": [
+		{
+			"description": "Expanding Wilderness Modules",
+			"type": "resources",
+			"uuid": "a8e166b1-d080-439a-56ec-859487b10ecb",
+			"version": [1, 0, 0]
+		}
+	]
+}

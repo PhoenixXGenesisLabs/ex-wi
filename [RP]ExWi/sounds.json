@@ -1,0 +1,268 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"genlabs:warthog": {
+				"events": {
+					"ambient": "mob.hoglin.ambient",
+					"angry": "mob.hoglin.angry",
+					"attack": "mob.hoglin.attack",
+					"death": "mob.hoglin.death",
+					"hurt": "mob.hoglin.hurt",
+					"retreat": "mob.hoglin.retreat",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.hoglin.step",
+						"volume": 1
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:alpaca": {
+				"events": {
+					"ambient": "mob.llama.idle",
+					"armor": {
+						"pitch": 1,
+						"sound": "mob.llama.swag",
+						"volume": 0.5
+					},
+					"death": "mob.llama.death",
+					"eat": {
+						"pitch": [0.8, 1.2],
+						"sound": "mob.llama.eat",
+						"volume": [0.5, 1.5]
+					},
+					"hurt": "mob.llama.hurt",
+					"mad": "mob.llama.angry",
+					"shoot": "mob.llama.spit",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.llama.step",
+						"volume": 0.15
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 0.8
+			},
+			"genlabs:deer": {
+                		"volume": 1,
+                		"pitch": [
+                 		   0.8,
+                 		   1.2
+                		],
+                		"events": {
+                		    "ambient": "deer.idle",
+                		    "hurt": "deer.death",
+                		    "death": "deer.death",
+                 		    "step": {
+                       	    "sound": "mob.pig.step",
+                     		    "volume": 0.2,
+                   		    "pitch": 1.0
+                    		}
+                	},
+			"genlabs:black_bear": {
+				"events": {
+					"ambient": "mob.polarbear.idle",
+					"ambient.baby": "mob.polarbear_baby.idle",
+					"death": "mob.polarbear.death",
+					"hurt": {
+						"sound": "mob.polarbear.hurt",
+						"volume": 0.7
+					},
+					"mob.warning": {
+						"pitch": 1,
+						"sound": "mob.polarbear.warning",
+						"volume": 1.2
+					},
+					"step": {
+						"pitch": 1,
+						"sound": "mob.polarbear.step",
+						"volume": 0.7
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:grizzly": {
+				"events": {
+					"ambient": "mob.polarbear.idle",
+					"ambient.baby": "mob.polarbear_baby.idle",
+					"death": "mob.polarbear.death",
+					"hurt": {
+						"sound": "mob.polarbear.hurt",
+						"volume": 0.7
+					},
+					"mob.warning": {
+						"pitch": 1,
+						"sound": "mob.polarbear.warning",
+						"volume": 1.2
+					},
+					"step": {
+						"pitch": 1,
+						"sound": "mob.polarbear.step",
+						"volume": 0.7
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:raccoon": {
+				"events": {
+					"ambient": "mob.wolf.bark",
+					"death": "mob.wolf.death",
+					"growl": "mob.wolf.growl",
+					"hurt": "mob.wolf.hurt",
+					"pant": "mob.wolf.panting",
+					"shake": {
+						"pitch": [0.8, 1.2],
+						"sound": "mob.wolf.shake"
+					},
+					"step": {
+						"pitch": 1,
+						"sound": "mob.wolf.step",
+						"volume": 0.65
+					},
+					"whine": "mob.wolf.whine"
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:mountain_goat" : {
+            			"events" : {
+               			"ambient" : "mob.goat.ambient",
+               			"ambient.screamer" : "mob.goat.ambient.screamer",
+               			"death" : "mob.goat.death",
+               			"death.screamer" : "mob.goat.death.screamer",
+              			"eat" : "mob.goat.eat",
+               			"hurt" : "mob.goat.hurt",
+               			"hurt.screamer" : "mob.goat.hurt.screamer",
+               			"step" : "mob.goat.step"
+            			},
+            		"pitch" : [ 0.80, 1.20 ],
+            		"volume" : 1
+         		},
+			"genlabs:bison": {
+				"events": {
+					"ambient": "mob.polarbear.idle",
+					"ambient.baby": "mob.polarbear_baby.idle",
+					"death": "mob.polarbear.death",
+					"hurt": {
+						"sound": "mob.polarbear.hurt",
+						"volume": 0.7
+					},
+					"mob.warning": {
+						"pitch": 1,
+						"sound": "mob.polarbear.warning",
+						"volume": 1.2
+					},
+					"step": {
+						"pitch": 1,
+						"sound": "mob.polarbear.step",
+						"volume": 0.7
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:bighorn_sheep": {
+				"events": {
+					"ambient": "mob.sheep.say",
+					"death": "mob.sheep.say",
+					"hurt": "mob.sheep.say",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.sheep.step",
+						"volume": 0.4
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:domestic_goat" : {
+            			"events" : {
+               				"ambient" : "mob.goat.ambient",
+               				"death" : "mob.goat.death",
+              				"eat" : "mob.goat.eat",
+               				"hurt" : "mob.goat.hurt",
+               				"step" : "mob.goat.step"
+            			},
+            			"pitch" : [ 0.80, 1.20 ],
+            			"volume" : 1
+         		},
+			"genlabs:bandit": {
+				"events": {
+					"ambient": "mob.vindicator.idle",
+					"ambient.in.raid": {
+						"pitch": [0.8, 1.2],
+						"sound": "mob.vindicator.idle",
+						"volume": 3
+					},
+					"celebrate": "mob.vindicator.celebrate",
+					"death": "mob.vindicator.death",
+					"hurt": "mob.vindicator.hurt"
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"genlabs:moobloom": {
+				"events": {
+					"ambient": "mob.cow.say",
+					"death": "mob.cow.hurt",
+					"eat": "mob.mooshroom.eat",
+					"hurt": "mob.cow.hurt",
+					"step": {
+						"pitch": [0.9, 1.1],
+						"sound": "mob.cow.step",
+						"volume": 0.65
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			}
+			"genlabs:manatee": {
+				"events": {
+					"ambient": "mob.dolphin.idle",
+					"ambient.in.water": "mob.dolphin.idle_water",
+					"breathe": "mob.dolphin.blowhole",
+					"death": "mob.dolphin.death",
+					"death.in.water": "mob.dolphin.death",
+					"eat": {
+						"pitch": 1,
+						"sound": "mob.dolphin.eat",
+						"volume": 0.7
+					},
+					"hurt": "mob.dolphin.hurt",
+					"hurt.in.water": "mob.dolphin.hurt",
+					"jump": {
+						"pitch": 1,
+						"sound": "mob.dolphin.jump",
+						"volume": 0.7
+					},
+					"splash": "mob.dolphin.splash",
+					"swim": "mob.dolphin.swim"
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			}
+			"genlabs:energized_golem": {
+				"events": {
+					"ambient": "mob.irongolem.say",
+					"death": "mob.irongolem.death",
+					"hurt": "mob.irongolem.hit",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.irongolem.walk",
+						"volume": 1
+					},
+					"throw": {
+						"pitch": 1,
+						"sound": "mob.irongolem.throw",
+						"volume": 1
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			}
+		}
+	}
+}

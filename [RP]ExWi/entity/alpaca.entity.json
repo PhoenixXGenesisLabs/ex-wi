@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "genlabs:alpaca",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "llama"
+			},
+			"textures": {
+				"default": "textures/entity/alpaca/alpaca"
+			},
+			"geometry": {
+				"default": "geometry.alpaca"
+			},
+			"animations": {
+				"setup": "animation.llama.setup",
+				"walk": "animation.quadruped.walk",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.llama.baby_transform"
+			},
+			"animation_controllers": [
+				{
+					"move": "controller.animation.llama.move"
+				},
+				{
+					"baby": "controller.animation.llama.baby"
+				}
+			],
+			"render_controllers": ["controller.render.llama"],
+			"spawn_egg": {
+				"texture": "alpaca_spawn_egg"
+			}
+		}
+	}
+}

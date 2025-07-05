@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "genlabs:energized_golem",
+			"materials": {
+				"default": "energized_golem",
+				"emissive": "energized_golem_emissive",
+			},
+			"textures": {
+				"default": "textures/entity/energized_golem/energized_golem"
+			},
+			"geometry": {
+				"default": "geometry.energized_golem"
+			},
+			"animations": {
+				"walk": "animation.energized_golem.walk",
+				"attack": "animation.energized_golem.attack",
+				"look_at_target": "animation.common.look_at_target",
+			},
+			"scripts": {
+				"animate": ["look_at_target"]
+			},
+			"render_controllers": ["controller.render.energized_golem"]
+		}
+	}
+}
