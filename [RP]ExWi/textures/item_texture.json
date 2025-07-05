@@ -1,0 +1,40 @@
+{
+	"texture_data": {
+		"mountain_goat_spawn_egg": {
+			"textures": ["textures/items/mountain_goat_spawn_egg"]
+		},
+		"bison_spawn_egg": {
+			"textures": ["textures/items/bison_spawn_egg"]
+		},
+		"alpaca_spawn_egg": {
+			"textures": ["textures/items/alpaca_spawn_egg"]
+		},
+		"black_bear_spawn_egg": {
+			"textures": ["textures/items/black_bear_spawn_egg"]
+		},
+		"grizzly_spawn_egg": {
+			"textures": ["textures/items/grizzly_spawn_egg"]
+		},
+		"warthog_spawn_egg": {
+			"textures": ["textures/items/warthog_spawn_egg"]
+		},
+		"bighorn_sheep_spawn_egg": {
+			"textures": ["textures/items/bighorn_sheep_spawn_egg"]
+		},
+		"domestic_goat_spawn_egg": {
+			"textures": ["textures/items/domestic_goat_spawn_egg"]
+		},
+		"bandit_spawn_egg": {
+			"textures": ["textures/items/bandit_spawn_egg"]
+		},
+		"manatee_spawn_egg": {
+			"textures": ["textures/items/manatee_spawn_egg"]
+		},
+		"energy_shard": {
+			"textures": "textures/items/energy_shard.png"
+		},
+		"redstone_shard": {
+			"textures": "textures/items/redstone_shard.png"
+		}
+	}
+}
