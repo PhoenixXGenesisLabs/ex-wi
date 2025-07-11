@@ -1,4 +1,4 @@
-Expanding Wilderness (ExWi) 0.1.0 (c) 2025 Genesis Labs
+Expanding Wilderness (ExWi) 0.2.1 (c) 2025 Genesis Labs
 
 en_US (English, United States)
 
