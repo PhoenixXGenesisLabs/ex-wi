@@ -1,16 +1,16 @@
 pack.name=Expanding Wilderness
 pack.description=Experience §oMinecraft§r a whole new way with over 20 new mobs!
 
-entity.genlabs:mountain_goat.name=Mountain Goat
-entity.genlabs:bison.name=Bison
-entity.genlabs:black_bear.name=Black Bear
-entity.genlabs:grizzly.name=Grizzly Bear
+entity.genlabs:mountain_goat.name=Capră de munte
+entity.genlabs:bison.name=Bizon
+entity.genlabs:black_bear.name=Urs negru
+entity.genlabs:grizzly.name=Urs Grizzly
 entity.genlabs:alpaca.name=Alpaca
-entity.genlabs:deer.name=Deer
-entity.genlabs:raccoon.name=Raccoon
-entity.genlabs:warthog.name=Warthog
+entity.genlabs:deer.name=Căprioară
+entity.genlabs:raccoon.name=Raton
+entity.genlabs:warthog.name=Mistreț de savană
 entity.genlabs:bighorn_sheep.name=Bighorn Sheep
-entity.genlabs:domestic_goat.name=Domestic Goat
+entity.genlabs:domestic_goat.name=Capră domestică
 entity.genlabs:bandit.name=Bandit
 entity.genlabs:moobloom.name=Moobloom
 entity.genlabs:manatee.name=Manatee
